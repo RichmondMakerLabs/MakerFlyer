@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="gitFlowchart.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Send"
+       style="overflow:visible;">
+      <path
+         id="path3803"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="372.04724"
+     inkscape:cy="414.23572"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="541"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4418"
+       width="191.42857"
+       height="31.428572"
+       x="57.142857"
+       y="769.50507" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4390"
+       width="221.42857"
+       height="100"
+       x="61.42857"
+       y="620.93365" />
+    <g
+       id="g3765"
+       transform="translate(-100,-55.714286)">
+      <rect
+         y="78.076469"
+         x="202.85715"
+         height="77.14286"
+         width="130.00002"
+         id="rect2985"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3755"
+         y="103.79075"
+         x="221.48605"
+         style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan3759"
+           y="103.79075"
+           x="221.48605"
+           sodipodi:role="line">Using </tspan><tspan
+           id="tspan3763"
+           y="148.79074"
+           x="221.48605"
+           sodipodi:role="line">GIT</tspan></text>
+    </g>
+    <g
+       id="g3777"
+       transform="translate(0,8)">
+      <rect
+         transform="matrix(0.67848063,0.73461829,-0.73461829,0.67848063,0,0)"
+         y="-26.784321"
+         x="200.95641"
+         height="80"
+         width="85.714287"
+         id="rect3771"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3773"
+         y="194.85089"
+         x="116.81781"
+         style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="194.85089"
+           x="116.81781"
+           id="tspan3775"
+           sodipodi:role="line">Repo?</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Send);stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 155.71429,100.93361 1.42857,28.57143"
+       id="path3782"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4228"
+       d="m 153.81471,257.50504 1.42857,28.57143"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Send)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Send)"
+       d="m 215.14249,201.70337 28.57143,-1.42857"
+       id="path4230"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="207.14287"
+       y="185.21933"
+       id="text4232"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4234"
+         x="207.14287"
+         y="185.21933">NO</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4236"
+       y="281.21933"
+       x="173.14287"
+       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="281.21933"
+         x="173.14287"
+         id="tspan4238"
+         sodipodi:role="line">YES</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4240"
+       width="224.28572"
+       height="65.714287"
+       x="250.00002"
+       y="172.36218" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="263.50714"
+       y="198.21933"
+       id="text4242"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4244"
+         x="263.50714"
+         y="198.21933">Go to web page </tspan><tspan
+         sodipodi:role="line"
+         x="263.50714"
+         y="233.21933"
+         id="tspan4246">and find/create</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4248"
+       d="M 264.76976,275.70337 236.19833,274.2748"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Send)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Send)"
+       d="m 319.71429,238.93361 1.42857,28.57143"
+       id="path4250"
+       inkscape:connector-curvature="0" />
+    <rect
+       y="272.36218"
+       x="284"
+       height="45.714287"
+       width="180"
+       id="rect4271"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="292.85715"
+       y="303.79077"
+       id="text4273"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4275"
+         x="292.85715"
+         y="303.79077">With readme?</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4277"
+       width="74.285713"
+       height="44.285717"
+       x="117.77084"
+       y="296.93362" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4279"
+       y="328.36221"
+       x="126.12072"
+       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="328.36221"
+         x="126.12072"
+         id="tspan4281"
+         sodipodi:role="line">Fork</tspan></text>
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4283"
+       width="671.42859"
+       height="345.71429"
+       x="38.57143"
+       y="13.790753" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="535.71429"
+       y="48.076469"
+       id="text4285"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4287"
+         x="535.71429"
+         y="48.076469"></tspan><tspan
+         sodipodi:role="line"
+         id="tspan4289"
+         x="535.71429"
+         y="98.076469">In web</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Send)"
+       d="m 153.81471,343.50504 1.42857,28.57143"
+       id="path4291"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4293"
+       width="669.99994"
+       height="101.42859"
+       x="40"
+       y="375.21933" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="43.42857"
+       y="395.50504"
+       id="text4295"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4297"
+         x="43.42857"
+         y="395.50504">$ git clone https://github.com/amunizp/plantduino-1.git</tspan><tspan
+         sodipodi:role="line"
+         x="43.42857"
+         y="418.00504"
+         id="tspan4299">$ cd plantduino-1</tspan><tspan
+         sodipodi:role="line"
+         x="43.42857"
+         y="440.50504"
+         id="tspan4301">$ git remote add upstream https://github.com/KingstonMakerLabs/plantduino.git</tspan><tspan
+         sodipodi:role="line"
+         x="43.42857"
+         y="463.00504"
+         id="tspan4324">$ git fetch upstream</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4328"
+       d="m 153.81471,487.50504 1.42857,28.57143"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Send)" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="173.14287"
+       y="513.21936"
+       id="text4330"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4332"
+         x="173.14287"
+         y="513.21936">We now have a local copy in our workspace</tspan></text>
+    <g
+       id="g4342"
+       transform="translate(17.142857,-27.142857)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect4334"
+         width="154.28563"
+         height="57.142277"
+         x="62.857143"
+         y="551.50507" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4336"
+         y="555.65143"
+         x="69.295853"
+         style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="555.65143"
+           x="69.295853"
+           id="tspan4338"
+           sodipodi:role="line" /><tspan
+           id="tspan4340"
+           y="590.65143"
+           x="69.295853"
+           sodipodi:role="line">Create files</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="264.28571"
+       y="533.79077"
+       id="text4348"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4350"
+         x="264.28571"
+         y="533.79077"></tspan><tspan
+         sodipodi:role="line"
+         id="tspan4352"
+         x="264.28571"
+         y="583.79077" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="244.28571"
+       y="545.21936"
+       id="text4358"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4360"
+         x="244.28571"
+         y="545.21936">plantduino_main.pde</tspan><tspan
+         sodipodi:role="line"
+         x="244.28571"
+         y="572.71936"
+         id="tspan4362">FAQ.TXT</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Send)"
+       d="m 153.81471,585.50504 1.42857,28.57143"
+       id="path4364"
+       inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4366"
+       y="641.85944"
+       x="75.735634"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="641.85944"
+         x="75.735634"
+         id="tspan4368"
+         sodipodi:role="line">$ git add *.pde *.txt</tspan><tspan
+         y="664.35944"
+         x="75.735634"
+         sodipodi:role="line"
+         id="tspan4376">$ git commit +.pde *.txt</tspan><tspan
+         id="tspan4370"
+         y="686.85944"
+         x="75.735634"
+         sodipodi:role="line">$ git push origin master</tspan><tspan
+         y="709.35944"
+         x="75.735634"
+         sodipodi:role="line"
+         id="tspan4378">$ git fetch upstream</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4392"
+       y="753.21936"
+       x="177.42859"
+       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="753.21936"
+         x="177.42859"
+         sodipodi:role="line"
+         id="tspan4396">Not what wanted: created repo in amunizp</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4400"
+       d="m 153.81471,733.50504 1.42857,28.57143"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Send)" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="69.822479"
+       y="789.89514"
+       id="text4402"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4410"
+         sodipodi:role="line"
+         x="69.822479"
+         y="789.89514">$ git  push upstream</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="177.42859"
+       y="833.21936"
+       id="text4420"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4422"
+         sodipodi:role="line"
+         x="177.42859"
+         y="833.21936">Remember! we said 'upstream' is the copy</tspan><tspan
+         sodipodi:role="line"
+         x="177.42859"
+         y="868.21936"
+         id="tspan4424">held in kingstonMakerlabs/plantduino</tspan><tspan
+         sodipodi:role="line"
+         x="177.42859"
+         y="903.21936"
+         id="tspan4426">upstream is not a comand just a shorthand.</tspan></text>
+  </g>
+</svg>
