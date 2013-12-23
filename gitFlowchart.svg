@@ -40,7 +40,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
      inkscape:cx="372.04724"
-     inkscape:cy="414.23572"
+     inkscape:cy="207.56733"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -381,7 +381,7 @@
          y="664.35944"
          x="75.735634"
          sodipodi:role="line"
-         id="tspan4376">$ git commit +.pde *.txt</tspan><tspan
+         id="tspan4376">$ git commit *.pde *.txt</tspan><tspan
          id="tspan4370"
          y="686.85944"
          x="75.735634"
@@ -436,5 +436,67 @@
          x="177.42859"
          y="903.21936"
          id="tspan4426">upstream is not a comand just a shorthand.</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Send)"
+       d="m 93.81471,806.36218 1.42857,28.57143"
+       id="path4428"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4430"
+       width="111.42857"
+       height="68.571426"
+       x="52.857143"
+       y="839.50507" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4432"
+       y="867.21655"
+       x="67.952774"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="867.21655"
+         x="67.952774"
+         sodipodi:role="line"
+         id="tspan4434">edit a </tspan><tspan
+         y="889.71655"
+         x="67.952774"
+         sodipodi:role="line"
+         id="tspan4436">local copy</tspan></text>
+    <rect
+       y="940.93365"
+       x="61.42857"
+       height="100"
+       width="221.42857"
+       id="rect4438"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="75.735634"
+       y="961.85944"
+       id="text4440"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4442"
+         x="75.735634"
+         y="961.85944">$ git fetch upstream</tspan><tspan
+         id="tspan4444"
+         sodipodi:role="line"
+         x="75.735634"
+         y="984.35944">$ git commit *.pde *.txt</tspan><tspan
+         sodipodi:role="line"
+         x="75.735634"
+         y="1006.8594"
+         id="tspan4446">$ git push upstream</tspan><tspan
+         id="tspan4448"
+         sodipodi:role="line"
+         x="75.735634"
+         y="1029.3594" /></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4450"
+       d="m 93.81471,908.36218 1.42857,28.57143"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Send)" />
   </g>
 </svg>
