@@ -39,8 +39,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="372.04724"
-     inkscape:cy="207.56733"
+     inkscape:cx="653.19597"
+     inkscape:cy="-493.00504"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -250,7 +250,7 @@
          sodipodi:role="line"
          id="tspan4287"
          x="535.71429"
-         y="48.076469"></tspan><tspan
+         y="48.076469" /><tspan
          sodipodi:role="line"
          id="tspan4289"
          x="535.71429"
@@ -342,7 +342,7 @@
          sodipodi:role="line"
          id="tspan4350"
          x="264.28571"
-         y="533.79077"></tspan><tspan
+         y="533.79077" /><tspan
          sodipodi:role="line"
          id="tspan4352"
          x="264.28571"
@@ -498,5 +498,88 @@
        id="path4450"
        d="m 93.81471,908.36218 1.42857,28.57143"
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Send)" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="104.28571"
+       y="1083.7908"
+       id="text3066"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3068"
+         x="104.28571"
+         y="1083.7908">$ git checkout -b AndresTest</tspan><tspan
+         sodipodi:role="line"
+         x="104.28571"
+         y="1133.7908"
+         id="tspan3070">do some modifications now</tspan><tspan
+         sodipodi:role="line"
+         x="104.28571"
+         y="1183.7908"
+         id="tspan3072">$ git commit nameoffilepreviously added</tspan><tspan
+         sodipodi:role="line"
+         x="104.28571"
+         y="1233.7908"
+         id="tspan3078">$ git push upstream </tspan><tspan
+         sodipodi:role="line"
+         x="104.28571"
+         y="1283.7908"
+         id="tspan3080">nothing seems to happen</tspan><tspan
+         sodipodi:role="line"
+         x="104.28571"
+         y="1333.7908"
+         id="tspan3082">$ git push orgin master </tspan><tspan
+         sodipodi:role="line"
+         x="104.28571"
+         y="1383.7908"
+         id="tspan3084">nothing seems to happen (logically I should have said Andrest Test</tspan><tspan
+         sodipodi:role="line"
+         x="104.28571"
+         y="1433.7908"
+         id="tspan3086" /><tspan
+         sodipodi:role="line"
+         x="104.28571"
+         y="1483.7908"
+         id="tspan3088">On web page create a new branch called TestingFeatures</tspan><tspan
+         sodipodi:role="line"
+         x="104.28571"
+         y="1533.7908"
+         id="tspan3090">$ git fetch upstream</tspan><tspan
+         sodipodi:role="line"
+         x="104.28571"
+         y="1583.7908"
+         id="tspan3092">This brings the branch TestingFeatures to my local machine</tspan><tspan
+         sodipodi:role="line"
+         x="104.28571"
+         y="1633.7908"
+         id="tspan3096">$ git checkout TestingFeatures</tspan><tspan
+         sodipodi:role="line"
+         x="104.28571"
+         y="1683.7908"
+         id="tspan3098">$ git merge AndresTest</tspan><tspan
+         sodipodi:role="line"
+         x="104.28571"
+         y="1733.7908"
+         id="tspan3100">I merged my previous modifications</tspan><tspan
+         sodipodi:role="line"
+         x="104.28571"
+         y="1783.7908"
+         id="tspan3102">$ git push origin TestingFeatures</tspan><tspan
+         sodipodi:role="line"
+         x="104.28571"
+         y="1833.7908"
+         id="tspan3104">And this goes up to the TestingFeatures branch on the server. </tspan><tspan
+         sodipodi:role="line"
+         x="104.28571"
+         y="1883.7908"
+         id="tspan3094" /><tspan
+         sodipodi:role="line"
+         x="104.28571"
+         y="1933.7908"
+         id="tspan3076" /><tspan
+         sodipodi:role="line"
+         x="104.28571"
+         y="1983.7908"
+         id="tspan3074" /></text>
   </g>
 </svg>
